@@ -15,6 +15,20 @@
 
 **currently working on Sqware's Recovery program and CompactOS**
 
+## My social
+**discord:** @sqware_
+
+**telegram:** @im_sqware
+
+**telegram channel:** @sqware_tgk
+
+## About me 
+**main language:"** Russian
+
+**Languages I know:** English (a little, but I study it)
+
+**My devices:** Google Pixel 7a, Oukitel u11 plus, Samsung Galaxy tab s6 lite, Samsung Galaxy core gt-i8262, hp laptop 15s-fq5044ci, computer on a socket Sandy bridge.
+
 <!--
 **1Sqware1/1Sqware1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
