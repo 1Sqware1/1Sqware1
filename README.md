@@ -36,7 +36,7 @@ I love working with legacy hardware and giving old devices a second life
 
 
 ## Favorite quote:
-*just for fun * — Linus Torvalds
+*just for fun* — Linus Torvalds
 
 <!--
 **1Sqware1/1Sqware1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
