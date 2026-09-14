@@ -1,9 +1,13 @@
 ### 1Sqware1 👀
 
 `std::cout << "Hello world!";`
+
 `printf("Hello world!);`
+
 `Console.WriteLine("Hello, World!");`
+
 `print("Hello, World!")`
+
 **Developer on: C++, C#, C, Lua.**
 
 ## Languages which I study:
