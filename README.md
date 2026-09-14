@@ -1,12 +1,15 @@
 ### 1Sqware1 👀
 
-`std::cout << "hello world!";`
+`std::cout << "Hello world!";`
+`printf("Hello world!);`
+`Console.WriteLine("Hello, World!");`
+`print("Hello, World!")`
+**Developer on: C++, C#, C, Lua.**
 
-**Developer on: C++, C#, Lua.**
+## Languages which I study:
+  **C++, C, Lua**
 
-
-<!--
-**currently working on Sqware's Recovery program**
+**currently working on Sqware's Recovery program and CompactOS**
 
 **1Sqware1/1Sqware1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
