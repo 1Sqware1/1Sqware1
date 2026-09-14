@@ -1,12 +1,12 @@
 # 1Sqware1 👀
 
-`std::cout << "Hello world!";`
+`std::cout << "Hello World!";`
 
-`printf("Hello world!");`
+`printf("Hello World!");`
 
-`Console.WriteLine("Hello, World!");`
+`Console.WriteLine("Hello World!");`
 
-`print("Hello, World!")`
+`print("Hello World!")`
 
 **Developer:** C++, C, C#, Lua
 
